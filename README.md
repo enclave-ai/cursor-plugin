@@ -1,13 +1,13 @@
 # Enclave for Cursor
 
-Bring [Enclave](https://enclave.ai) security findings and pull request security analysis into Cursor.
+[Enclave](https://enclave.ai) is a fleet of autonomous security agents. They map your repositories and cloud into a live security graph, then hunt for vulnerabilities, run penetration tests and review pull requests the way a security researcher would. They verify reachability and exploitability before anything reaches your team.
 
-Enclave's security agents find, verify and explain vulnerabilities in your code and pull requests. This plugin connects Cursor's agent to your Enclave organization so it can:
+This plugin brings that work into Cursor. Your agent sees the same verified findings, exploit context and security posture that Enclave's agents work from, and it can act on them in your codebase:
 
-- **Fix verified findings** in your codebase, using the finding's summary, impact and proof of concept
-- **Check a pull request** before you merge, with Enclave's scan status, gate result and every flagged concern
+- **Fix verified findings** from security hunts, penetration tests, workflows and security chat, using the finding's summary, impact and proof of concept
 - **Triage findings** against your actual code, marking them verified, resolved or invalid with a recorded reason
-- **Summarize your security posture**: findings by severity, connected repositories and PR scan coverage
+- **Summarize your security posture**: findings by severity and status, connected repositories and PR scan coverage
+- **Check a pull request** before you merge, with Enclave's scan status, gate result and every flagged concern
 
 ## What's included
 
