@@ -1,0 +1,23 @@
+{
+  "name": "enclave",
+  "version": "1.0.0",
+  "description": "Enclave's autonomous security agents, in Cursor. Pull the findings they verify in security hunts, penetration tests and workflows into your editor, fix them with full exploit context, triage them against your code, and check a PR before you merge.",
+  "author": {
+    "name": "Enclave",
+    "email": "support@enclave.ai"
+  },
+  "homepage": "https://enclave.ai",
+  "repository": "https://github.com/enclave-ai/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "agentic-security",
+    "security-agents",
+    "vulnerabilities",
+    "appsec",
+    "penetration-testing",
+    "pull-requests",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}
